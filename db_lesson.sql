@@ -7,7 +7,7 @@ CREATE TABLE `people`(
     -> );
 
 -- Q2
-Alter TABLE people ADD department_id INT unsigned AFTER email:
+AlTER TABLE people ADD department_id INT unsigned AFTER email:
 
 -- Q3
 INSERT INTO departments (name) 
